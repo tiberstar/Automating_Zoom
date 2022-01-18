@@ -2,7 +2,7 @@
 根据您的时间表自动加入缩放会议的 python 脚本。
 
 <ol>
-<li>检查“timings.xlsx”文件以查找即将开始的会议。</li>
+<li>检查“meetingList.xlsx”文件以查找即将开始的会议。</li>
 <li>一旦当前时间与任何会议时间匹配，它就会打开 Zoom 桌面应用程序。</li>
 <li>自动将光标导航到加入会议的各个步骤。</li>
 <li>会议 ID 和密码从“meetingList.xlsx”中提取并自动输入到 Zoom 应用程序中。</li>
