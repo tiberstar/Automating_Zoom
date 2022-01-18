@@ -9,8 +9,8 @@ from datetime import datetime
 
 # 入会结果是否发送微信消息
 sendResult = True
-# 微信绑定SDK
-sdk = 'SCT97191T10sJtQMJbP8e02jPQbJg5iCs'
+# 微信绑定SDK(此处配置自己的SDK)
+sdk = '**********************'
 # 腾讯会议应用程序路径
 meetPath = "D:/Program Files (x86)/Tencent/Meet/WeMeet/wemeetapp.exe"
 # 微信推送消息标题
